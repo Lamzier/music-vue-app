@@ -1,0 +1,23 @@
+{
+  "name": "music",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@icon-park/vue-next": "^1.4.2",
+    "bootstrap-icons": "^1.10.4",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.4",
+    "popper.js": "^1.16.1",
+    "vite": "^4.1.4"
+  }
+}
